@@ -69,7 +69,6 @@ CREATE TABLE commander (
 id_livres int(3) NOT NULL,
 id_client int(3) NOT NULL,
 qt_commander INT(3), 
-prix_commander DECIMAL(10,2),
 PRIMARY KEY (id_livres,id_client)
 ) ENGINE=InnoDB;
 
