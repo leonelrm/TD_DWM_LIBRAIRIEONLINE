@@ -1,0 +1,9 @@
+# Modèle créé le : Thu Oct 20 14:04:37 CEST 2020 
+editeur (id_editeur, Nom_editeur) 
+livres (id_livres, titre_livres, sous_titre_livres, annee_de_sortie_livres, resume_livres, ISBN_livres, Prix_livres, image_livres, #id_editeur, #id_theme) 
+auteur (id_auteur, Nom_auteur, Prenom_auteur) 
+client (id_client, Nom_client, Prenom_client, date_de_naissance_client, adresse_client, ville_client, code_postal_client, email_client, telephone_client) 
+theme (id_theme, Genre_theme) 
+utilisateur (id_utilisateur, admin_utilisateur, client_utilisateur) 
+Rediger (id_auteur, id_livres) 
+commander (id_livres, id_client, qt_commander, prix_commander) 
