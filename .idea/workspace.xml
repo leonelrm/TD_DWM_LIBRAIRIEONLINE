@@ -22,7 +22,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../td_26-10-20" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,10 +34,21 @@
       <option name="presentableId" value="Default" />
       <updated>1603373603709</updated>
       <workItem from="1603373604803" duration="370000" />
+      <workItem from="1603431034639" duration="115000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1020" y="90" key="FileChooserDialogImpl" timestamp="1603431147122">
+      <screen x="-1600" y="-95" width="1600" height="860" />
+    </state>
+    <state x="-1020" y="90" key="FileChooserDialogImpl/0.0.1536.824/-1600.-95.1600.860@-1600.-95.1600.860" timestamp="1603431147122" />
+    <state x="-1299" y="-20" key="SettingsEditor" timestamp="1603431137872">
+      <screen x="-1600" y="-95" width="1600" height="860" />
+    </state>
+    <state x="-1299" y="-20" key="SettingsEditor/0.0.1536.824/-1600.-95.1600.860@-1600.-95.1600.860" timestamp="1603431137872" />
   </component>
 </project>
